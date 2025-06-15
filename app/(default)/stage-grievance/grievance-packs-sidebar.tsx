@@ -15,6 +15,16 @@ const navSections = [
     ],
   },
   {
+    title: 'Step by Step',
+    items: [
+      {
+        label: 'Task List',
+        path: '/stage-grievance/tasks',
+        icon: placeholderIcon(), // TODO: Replace with proper icon
+      },
+    ],
+  },
+      {
     title: 'Resources',
     items: [
       {
@@ -30,16 +40,6 @@ const navSections = [
       {
         label: 'References',
         path: '/stage-grievance/resources',
-        icon: placeholderIcon(), // TODO: Replace with proper icon
-      },
-    ],
-  },
-  {
-    title: 'Step by Step',
-    items: [
-      {
-        label: 'Task List',
-        path: '/stage-grievance/tasks',
         icon: placeholderIcon(), // TODO: Replace with proper icon
       },
     ],
