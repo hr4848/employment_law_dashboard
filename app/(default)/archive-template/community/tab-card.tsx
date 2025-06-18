@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import Image, { StaticImageData } from 'next/image'
-import EditMenu from '@/components/edit-menu'
+import EditMenu from '@/components/other/edit-menu'
 
 interface User {
   id: number

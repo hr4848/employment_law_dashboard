@@ -1,7 +1,7 @@
 'use client'
 
 import { useState } from 'react'
-import ModalBlank from '@/components/modal-blank'
+import ModalBlank from '@/components/other/modal-blank'
 
 export default function FeedbackExamples() {
 

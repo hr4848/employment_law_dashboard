@@ -3,9 +3,9 @@ export const metadata = {
   description: 'Page description',
 }
 
-import SearchForm from '@/components/search-form'
+import SearchForm from '@/components/other/search-form'
 import TabCard from '../tab-card'
-import PaginationNumeric from '@/components/pagination-numeric'
+import PaginationNumeric from '@/components/other/pagination-numeric'
 
 import Image01 from '@/public/images/user-64-01.jpg'
 import Image02 from '@/public/images/user-64-02.jpg'

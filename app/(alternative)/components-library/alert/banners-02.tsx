@@ -1,7 +1,7 @@
 'use client'
 
 import { useState } from 'react'
-import Banner02 from '@/components/banner-02'
+import Banner02 from '@/components/other/banner-02'
 
 export default function Banners02() {
 

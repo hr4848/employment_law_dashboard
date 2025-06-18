@@ -1,8 +1,8 @@
 'use client'
 
 import { useState } from 'react'
-import ModalBasic from '@/components/modal-basic'
-import ModalCookies from '@/components/modal-cookies'
+import ModalBasic from '@/components/other/modal-basic'
+import ModalCookies from '@/components/other/modal-cookies'
 
 export default function BasicExamples() {
 

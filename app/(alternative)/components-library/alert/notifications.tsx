@@ -1,7 +1,7 @@
 'use client'
 
 import { useState } from 'react'
-import Notification from '@/components/notification'
+import Notification from '@/components/other/notification'
 
 export default function Notifications() {
 

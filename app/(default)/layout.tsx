@@ -1,4 +1,4 @@
-import Sidebar from '@/components/ui/sidebar'
+import Sidebar from '@/components/ui/Sidebar/sidebar'
 import Header from '@/components/ui/header'
 
 export default function DefaultLayout({

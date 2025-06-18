@@ -3,10 +3,10 @@ export const metadata = {
   description: 'Page description',
 }
 
-import SearchForm from '@/components/search-form'
-import FilterButton from '@/components/dropdown-filter'
+import SearchForm from '@/components/other/search-form'
+import FilterButton from '@/components/dropdown/dropdown-filter'
 import CampaignCard from './campaign-card'
-import PaginationNumeric from '@/components/pagination-numeric'
+import PaginationNumeric from '@/components/other/pagination-numeric'
 
 import Image01 from '@/public/images/user-28-01.jpg'
 import Image02 from '@/public/images/user-28-02.jpg'

@@ -6,7 +6,7 @@ export const metadata = {
 import JobsSidebar from './jobs-sidebar'
 import JobsItem from './jobs-item'
 import DropdownSort from './sort-dropdown'
-import PaginationNumeric from '@/components/pagination-numeric'
+import PaginationNumeric from '@/components/other/pagination-numeric'
 import Image01 from '@/public/images/company-icon-05.svg'
 import Image02 from '@/public/images/company-icon-06.svg'
 import Image03 from '@/public/images/company-icon-03.svg'

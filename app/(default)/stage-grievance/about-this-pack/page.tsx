@@ -6,7 +6,7 @@ export const metadata = {
 import PacksSidebar from '../grievance-packs-sidebar'
 import GrievancePanel from './grievance-panel'
 
-export default function AccountSettings() {
+export default function GrievanceAboutPack() {
   return (
     <div className="px-4 sm:px-6 lg:px-8 py-8 w-full max-w-[96rem] mx-auto">
 

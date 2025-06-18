@@ -3,9 +3,9 @@ export const metadata = {
   description: 'Page description',
 }
 
-import PaginationNumeric from '@/components/pagination-numeric'
-import PaginationClassic from '@/components/pagination-classic'
-import PaginationNumeric02 from '@/components/pagination-numeric-2'
+import PaginationNumeric from '@/components/other/pagination-numeric'
+import PaginationClassic from '@/components/other/pagination-classic'
+import PaginationNumeric02 from '@/components/other/pagination-numeric-2'
 
 export default function PaginationLibrary() {
   return (

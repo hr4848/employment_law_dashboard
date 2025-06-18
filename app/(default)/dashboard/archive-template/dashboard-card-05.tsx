@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import Tooltip from '@/components/tooltip'
+import Tooltip from '@/components/other/tooltip'
 import RealtimeChart from '@/components/charts/realtime-chart'
 import { chartAreaGradient } from '@/components/charts/chartjs-config'
 

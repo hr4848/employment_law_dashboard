@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import EditMenu from '@/components/edit-menu'
+import EditMenu from '@/components/other/edit-menu'
 import UserImage02 from '@/public/images/user-40-02.jpg'
 import UserImage03 from '@/public/images/user-40-03.jpg'
 import UserImage04 from '@/public/images/user-40-04.jpg'

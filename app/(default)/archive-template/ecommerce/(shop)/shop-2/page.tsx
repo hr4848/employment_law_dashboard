@@ -5,7 +5,7 @@ export const metadata = {
 
 import ShopSidebar from '../shop-sidebar'
 import ShopCards07 from '../shop-cards-07'
-import PaginationClassic from '@/components/pagination-classic'
+import PaginationClassic from '@/components/other/pagination-classic'
 
 export default function Shop2() {
   return (

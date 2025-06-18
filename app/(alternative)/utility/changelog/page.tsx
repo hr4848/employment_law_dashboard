@@ -4,7 +4,7 @@ export const metadata = {
 }
 
 import Image from 'next/image'
-import PaginationClassic from '@/components/pagination-classic'
+import PaginationClassic from '@/components/other/pagination-classic'
 import User01 from '@/public/images/user-32-01.jpg'
 import User02 from '@/public/images/user-32-02.jpg'
 import User07 from '@/public/images/user-32-07.jpg'

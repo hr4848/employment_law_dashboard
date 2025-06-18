@@ -2,7 +2,7 @@
 
 import { useFlyoutContext } from '@/app/flyout-context'
 import Image from 'next/image'
-import ChannelMenu from '@/components/channel-menu'
+import ChannelMenu from '@/components/other/channel-menu'
 import UserImage01 from '@/public/images/user-32-01.jpg'
 import UserImage02 from '@/public/images/user-32-02.jpg'
 import UserImage04 from '@/public/images/user-32-04.jpg'

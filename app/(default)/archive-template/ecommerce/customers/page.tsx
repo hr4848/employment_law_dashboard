@@ -4,11 +4,11 @@ export const metadata = {
 }
 
 import { SelectedItemsProvider } from '@/app/selected-items-context'
-import DeleteButton from '@/components/delete-button'
-import DateSelect from '@/components/date-select'
-import FilterButton from '@/components/dropdown-filter'
+import DeleteButton from '@/components/dropdown/delete-button'
+import DateSelect from '@/components/other/date-select'
+import FilterButton from '@/components/dropdown/dropdown-filter'
 import CustomersTable from './customers-table'
-import PaginationClassic from '@/components/pagination-classic'
+import PaginationClassic from '@/components/other/pagination-classic'
 
 import Image01 from '@/public/images/user-40-01.jpg'
 import Image02 from '@/public/images/user-40-02.jpg'

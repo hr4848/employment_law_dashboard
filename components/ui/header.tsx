@@ -3,11 +3,11 @@
 import { useState } from 'react'
 import { useAppProvider } from '@/app/app-provider'
 
-import SearchModal from '@/components/search-modal'
-import Notifications from '@/components/dropdown-notifications'
-import DropdownHelp from '@/components/dropdown-help'
-import ThemeToggle from '@/components/theme-toggle'
-import DropdownProfile from '@/components/dropdown-profile'
+import SearchModal from '@/components/other/search-modal'
+import Notifications from '@/components/dropdown/dropdown-notifications'
+import DropdownHelp from '@/components/dropdown/dropdown-help'
+import ThemeToggle from '@/components/other/theme-toggle'
+import DropdownProfile from '@/components/dropdown/dropdown-profile'
 
 export default function Header({
   variant = 'default',

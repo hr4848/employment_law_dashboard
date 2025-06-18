@@ -1,4 +1,4 @@
-import EditMenu from '@/components/edit-menu-card'
+import EditMenu from '@/components/other/edit-menu-card'
 
 export default function FintechCard02() {
   return(

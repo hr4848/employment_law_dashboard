@@ -3,9 +3,9 @@ export const metadata = {
   description: 'Page description',
 }
 
-import SearchForm from '@/components/search-form'
+import SearchForm from '@/components/other/search-form'
 import MeetupsPosts from './meetups-posts'
-import PaginationNumeric from '@/components/pagination-numeric'
+import PaginationNumeric from '@/components/other/pagination-numeric'
 
 export default function Meetups() {
   return (

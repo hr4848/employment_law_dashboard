@@ -3,15 +3,15 @@ export const metadata = {
   description: 'Page description',
 }
 
-import DateSelect from '@/components/date-select'
-import DropdownFull from '@/components/dropdown-full'
-import DropdownFilter from '@/components/dropdown-filter'
-import DropdownProfile from '@/components/dropdown-profile'
-import DropdownSwitch from '@/components/dropdown-switch'
-import DropdownNotifications from '@/components/dropdown-notifications'
-import DropdownHelp from '@/components/dropdown-help'
-import EditMenu from '@/components/edit-menu'
-import Datepicker from '@/components/datepicker'
+import DateSelect from '@/components/other/date-select'
+import DropdownFull from '@/components/dropdown/dropdown-full'
+import DropdownFilter from '@/components/dropdown/dropdown-filter'
+import DropdownProfile from '@/components/dropdown/dropdown-profile'
+import DropdownSwitch from '@/components/dropdown/dropdown-switch'
+import DropdownNotifications from '@/components/dropdown/dropdown-notifications'
+import DropdownHelp from '@/components/dropdown/dropdown-help'
+import EditMenu from '@/components/other/edit-menu'
+import Datepicker from '@/components/other/datepicker'
 
 export default function DropdownLibrary() {
   return (

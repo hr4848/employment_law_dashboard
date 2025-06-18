@@ -3,7 +3,7 @@ export const metadata = {
   description: 'Page description',
 }
 
-import Tooltip from '@/components/tooltip'
+import Tooltip from '@/components/other/tooltip'
 import FormSwitches from './form-switches'
 
 export default function FormLibrary() {

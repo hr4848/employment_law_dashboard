@@ -1,6 +1,6 @@
 'use client'
 
-import Tooltip from '@/components/tooltip'
+import Tooltip from '@/components/other/tooltip'
 import BarChart02 from '@/components/charts/bar-chart-02'
 
 // Import utilities

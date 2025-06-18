@@ -3,7 +3,7 @@ export const metadata = {
   description: 'Page description',
 }
 
-import Datepicker from '@/components/datepicker'
+import Datepicker from '@/components/other/datepicker'
 import AnalyticsCard01 from './analytics-card-01'
 import AnalyticsCard02 from './analytics-card-02'
 import AnalyticsCard03 from './analytics-card-03'

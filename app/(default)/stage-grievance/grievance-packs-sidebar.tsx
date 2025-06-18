@@ -19,7 +19,7 @@ const navSections = [
     items: [
       {
         label: 'Task List',
-        path: '/stage-grievance/tasks',
+        path: '/stage-grievance/grievance-tasks',
         icon: placeholderIcon(), // TODO: Replace with proper icon
       },
     ],

@@ -1,7 +1,7 @@
 'use client'
 
 import { useState } from 'react'
-import Toast03 from '@/components/toast-03'
+import Toast03 from '@/components/other/toast-03'
 
 export default function Toasts03() {
 

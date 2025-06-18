@@ -21,8 +21,9 @@ export default function AppProvider({
 }: {
   children: React.ReactNode
 }) {  
-  const [sidebarOpen, setSidebarOpen] = useState<boolean>(false)
-  const [sidebarExpanded, setSidebarExpanded] = useState<boolean>(false)
+const [sidebarOpen, setSidebarOpen] = useState(true)
+const [sidebarExpanded, setSidebarExpanded] = useState(true)
+
   return (
     <AppContext.Provider value={{ sidebarOpen, setSidebarOpen, sidebarExpanded, setSidebarExpanded }}>
       {children}

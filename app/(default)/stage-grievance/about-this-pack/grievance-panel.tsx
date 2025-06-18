@@ -23,7 +23,11 @@ export default function GrievanceAboutPackPanel() {
             <li>
               <strong>Document Preparation Support</strong> – Smart tools and prompts to help you prepare draft letters, timelines, and evidence summaries—without needing legal expertise.
             </li>
+
           </ul>
+             <li>
+              <strong>This module does not provide legal advice and is not a substitute for a qualified solicitor.</strong> 
+            </li>
         </section>
       </div>
     </div>

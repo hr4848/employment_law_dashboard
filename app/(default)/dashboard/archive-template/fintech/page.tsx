@@ -3,7 +3,7 @@ export const metadata = {
   description: 'Page description',
 }
 
-import Datepicker from '@/components/datepicker'
+import Datepicker from '@/components/other/datepicker'
 import FintechIntro from './fintech-intro'
 import FintechCard01 from './fintech-card-01'
 import FintechCard02 from './fintech-card-02'

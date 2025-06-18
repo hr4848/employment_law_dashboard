@@ -1,0 +1,10 @@
+// lib/constants/tasks.ts
+export const newTask = {
+  id: '',
+  text: '',
+  status: '',
+  startDate: '',
+  endDate: '',
+  progress: 0,
+  // Add more fields as needed
+};

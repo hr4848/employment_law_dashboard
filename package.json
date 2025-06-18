@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --turbopack",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
@@ -21,6 +21,7 @@
     "clsx": "^2.1.1",
     "date-fns": "^4.1.0",
     "devextreme": "^24.2.7",
+    "devextreme-angular": "^24.2.7",
     "devextreme-react": "^24.2.7",
     "exceljs": "^4.4.0",
     "file-saver-es": "^2.0.5",

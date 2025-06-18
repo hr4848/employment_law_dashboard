@@ -4,12 +4,12 @@ export const metadata = {
 }
 
 import { SelectedItemsProvider } from '@/app/selected-items-context'
-import SearchForm from '@/components/search-form'
-import DeleteButton from '@/components/delete-button'
-import DateSelect from '@/components/date-select'
-import FilterButton from '@/components/dropdown-filter'
+import SearchForm from '@/components/other/search-form'
+import DeleteButton from '@/components/dropdown/delete-button'
+import DateSelect from '@/components/other/date-select'
+import FilterButton from '@/components/dropdown/dropdown-filter'
 import InvoicesTable from './invoices-table'
-import PaginationClassic from '@/components/pagination-classic'
+import PaginationClassic from '@/components/other/pagination-classic'
 
 function InvoicesContent() {
 

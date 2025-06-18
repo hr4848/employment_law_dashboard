@@ -3,8 +3,8 @@ export const metadata = {
   description: 'Page description',
 }
 
-import FilterButton from '@/components/dropdown-filter'
-import Datepicker from '@/components/datepicker'
+import FilterButton from '@/components/dropdown/dropdown-filter'
+import Datepicker from '@/components/other/datepicker'
 import DashboardCard01 from './dashboard-card-01'
 import DashboardCard02 from './dashboard-card-02'
 import DashboardCard03 from './dashboard-card-03'

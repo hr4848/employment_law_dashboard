@@ -3,7 +3,7 @@ export const metadata = {
   description: 'Page description',
 }
 
-import Tooltip from '@/components/tooltip'
+import Tooltip from '@/components/other/tooltip'
 
 export default function TooltipLibrary() {
   return (

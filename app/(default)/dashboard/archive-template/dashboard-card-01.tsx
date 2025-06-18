@@ -1,6 +1,6 @@
 'use client'
 
-import EditMenu from '@/components/edit-menu'
+import EditMenu from '@/components/other/edit-menu'
 import LineChart01 from '@/components/charts/line-chart-01'
 import { chartAreaGradient } from '@/components/charts/chartjs-config'
 
